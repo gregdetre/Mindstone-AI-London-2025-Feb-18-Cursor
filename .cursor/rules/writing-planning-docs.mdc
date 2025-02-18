@@ -20,6 +20,7 @@ Update this doc regularly, making minimal changes.
 - Clear problem/goal statement(s) at top, plus enough context/background to pick up where we left off
 - If the goal is complex, break things down in detail about the desired behaviour.
 
+
 ### Principles, key decisions
 
 - Include any specific principles/approaches or decisions that have been explicitly agreed with the user (over and above existing Cursor rules, project examples, best practices, etc).
