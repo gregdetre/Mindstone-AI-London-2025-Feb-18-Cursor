@@ -8,7 +8,7 @@ This is a guide for writing planning/project management `.md` files, e.g. `plann
 
 Aim to keep these concise, and only include stuff explicitly agreed with the user.
 
-If you're starting the doc from scratch, store it in `planning/`, and first ask the user questions to clarify key decisions.
+If you're starting the doc from scratch, store it in `planning/`, and first ask the user questions about their project requirements to clarify key decisions.
 
 Update this doc regularly, making minimal changes.
 
